@@ -14,6 +14,7 @@ npm install
 
 - Create the required schema by sourcing `schema.sql` in `db` folder.
 - Create a `.env` file in the root directory and define the following variables: `DB_USER`, `DB_PW` and `DB_NAME`.
+- Optionally seed the database by running `npm seed`.
 - Run `npm start` to start the application.
 
 The following API calls are supported:
