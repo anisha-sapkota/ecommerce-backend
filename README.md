@@ -1,6 +1,6 @@
 # ecommerce-backend
 
-Backend for e-commerce site.
+Backend APIs for e-commerce site using express and sequelize.
 
 ## Installation
 
@@ -16,6 +16,8 @@ npm install
 - Create a `.env` file in the root directory and define the following variables: `DB_USER`, `DB_PW` and `DB_NAME`.
 - Optionally seed the database by running `npm seed`.
 - Run `npm start` to start the application.
+
+View live demo [here](https://watch.screencastify.com/v/26W6vF37ZrkoI4gRCa5H).
 
 The following API calls are supported:
 
